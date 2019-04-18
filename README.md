@@ -7,7 +7,8 @@ One Paragraph of project description goes here
 ### Getting Started
 
 For a showcase you can copy the whole rep and run the matlab script 
-```occupancy_grid_mapping.m
+```
+occupancy_grid_mapping.m
 ```
 The script will run by using the measurement file laser_0.log which includes laser sensor data as well as odometry data.
 ### Prerequisites

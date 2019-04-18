@@ -3,6 +3,8 @@
 # Occupancy grid mapping in MATLAB2018a
 
 Test-case of occupancy grid mapping using real pose data, and laser measurements.
+
+<img src="giploop.gif" width="40" height="40" />
 ![](gifloop.gif)
 ### Getting Started
 

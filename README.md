@@ -4,7 +4,7 @@
 
 Test-case of occupancy grid mapping using real pose data, and laser measurements.
 
-<img src="giploop.gif" width="40" height="40" />
+<img src="../master/giploop.gif" width="40" height="40" />
 ![](gifloop.gif)
 ### Getting Started
 
